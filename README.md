@@ -2,8 +2,6 @@
 
 ### App Description
 
-`TODO://`
-
 This is an app created for the IOS-Development course instructed by CodePath. At the top of the app is my current university, University of Maryland - College Park. Below that, the user can enter their first, last, and school name. Afterwards, they may enter the number of pets they own and their desire for more pets. Last, an alert will apear on their screen with all of their information. 
 
 ### App Walk-though
